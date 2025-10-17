@@ -80,8 +80,6 @@ pipeline {
         verbose: false)])
       }
     }
-
-    
   }
 }
 
